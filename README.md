@@ -5,14 +5,15 @@ I'm a **product-focused full stack engineer** who lives and breathes code.
 💡 Currently exploring:  
 - ⚙️ System Architecture  
 - 🧩 Design Patterns  
-- 📐 SOLID Principles  
+- 📐 SOLID Principles
+- web development using Go
 
 I love building things from scratch, optimizing performance, and bridging the gap between **technical complexity and real-world impact**.
 
 ---
 
 ### 🛠 Tech I enjoy
-`TypeScript` • `Angular` • `NestJS` • `Node.js` • `PostgreSQL` • `Docker` • `Monorepos` • `React` 
+`TypeScript` • `Angular` • `NestJS` • `Node.js` • `PostgreSQL` • `Docker` • `Monorepos` • `React` • `Golang` 
 Recently diving deeper into architecture, testing, and DevOps workflows.
 
 ---
