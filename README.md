@@ -21,17 +21,3 @@ Recently diving deeper into architecture, testing, and DevOps workflows.
 I love chatting about software, systems, and scaling products.  
 Open to collaboration, pair programming, or just nerding out.
 
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-![Jamal Guyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamalGuyo&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamalGuyo&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
